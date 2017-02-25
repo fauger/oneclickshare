@@ -1,4 +1,4 @@
-package oneclick.com.oneclickshare;
+package com.zeroetun.oneclickshare;
 
 import org.junit.Test;
 

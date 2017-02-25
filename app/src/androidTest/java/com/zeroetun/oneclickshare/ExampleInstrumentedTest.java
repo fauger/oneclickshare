@@ -1,4 +1,4 @@
-package oneclick.com.oneclickshare;
+package com.zeroetun.oneclickshare;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("oneclick.com.oneclickshare", appContext.getPackageName());
+        assertEquals("com.zeroetun.oneclickshare", appContext.getPackageName());
     }
 }

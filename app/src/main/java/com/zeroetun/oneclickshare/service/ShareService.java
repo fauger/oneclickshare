@@ -1,4 +1,4 @@
-package oneclick.com.oneclickshare.service;
+package com.zeroetun.oneclickshare.service;
 
 import android.net.Uri;
 import android.util.Log;

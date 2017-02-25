@@ -1,0 +1,42 @@
+{
+	"project_info": {
+		"project_number": "1030237884269",
+		"firebase_url": "https://test-15412.firebaseio.com",
+		"project_id": "test-15412",
+		"storage_bucket": "test-15412.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:1030237884269:android:4a81bddc837070c0",
+				"android_client_info": {
+					"package_name": "com.zeroetun.oneclickshare"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "1030237884269-6euj0gh7ot7nmr5ouu995s5of5npj8dr.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyBmAJFSnC3KJNQW5oefHIqE-B27dv_3-6c"
+				}
+			],
+			"services": {
+				"analytics_service": {
+					"status": 1
+				},
+				"appinvite_service": {
+					"status": 1,
+					"other_platform_oauth_client": []
+				},
+				"ads_service": {
+					"status": 2
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
